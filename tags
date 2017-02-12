@@ -1,0 +1,10 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+get_xml_data	main.py	/^def get_xml_data():$/;"	kind:function	line:7
+main.py	main.py	1;"	kind:file	line:1
+open_connection	main.py	/^def open_connection(server, port):$/;"	kind:function	line:17
+xml_url	main.py	/^xml_url = "http:\/\/196.evony.com\/config.xml"$/;"	kind:variable	line:4
